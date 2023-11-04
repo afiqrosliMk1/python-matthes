@@ -1,0 +1,6 @@
+In Python you can use dictionary
+Dictionary is not a feature of C
+In Python, the for loop sucks
+You have to use range() to generate a loop
+In Python, file manipulation is easy
+Use 'with' keyword to make Python handle opening and closing
